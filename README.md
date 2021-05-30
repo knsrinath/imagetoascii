@@ -10,4 +10,4 @@
 #  --no-color            no ANSI colors
 #  --width WIDTH         output width in characters (Default 120)
 #  --height-scale HEIGHT_SCALE
-                        scale ratio for height (default .55
+#                        scale ratio for height (default .55
